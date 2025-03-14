@@ -1,6 +1,6 @@
 # Terraform OpenStack Infrastructure Setup
 
-OpenStack을 사용하여 Kubernetes 클러스터와 관련된 여러 자원을 자동으로 생성하는 Terraform 코드. 
+OpenStack을 사용하여 Kubernetes 클러스터와 관련된 여러 자원을 자동으로 생성하는 Terraform 코드.   
 이 코드는 네트워크, 보안 그룹, 인스턴스, 포트, 그리고 부하 분산기와 같은 여러 자원을 설정.
 
 ## 요구 사항
